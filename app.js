@@ -73,7 +73,7 @@ let teleportGuide = [
 var stepSound = new Audio("sounds/pop.mp3");
 var victorySong = new Audio('sounds/VictorySong.mp3');
 var tranSound = new Audio("sounds/TransitionSound.mp3");
-var catdead = new Audio("sounds/CatDeath.WAV");
+var catdead = new Audio("sounds/CatDeath.mp3");
 var bgm = new Audio("sounds/bgm.mp3");
 
 //=========================================== Initialization =========================================
